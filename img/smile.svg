@@ -12,8 +12,8 @@
    viewBox="0 0 100 100"
    version="1.1"
    id="svg8"
-   inkscape:version="1.0.2 (e86c8708, 2021-01-15)"
-   sodipodi:docname="smile.svg">
+   sodipodi:docname="smile.svg"
+   inkscape:version="1.0.2 (e86c8708, 2021-01-15)">
   <defs
      id="defs2" />
   <sodipodi:namedview
@@ -52,7 +52,7 @@
      inkscape:groupmode="layer"
      id="layer1">
     <path
-       style="fill:none;stroke:#000000;stroke-width:9;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:none;stroke:#000000;stroke-width:18;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M 15.364743,56.071335 C 38.480871,34.260861 60.322672,35.118663 85.404025,55.472709"
        id="path835"
        sodipodi:nodetypes="cc" />
